@@ -33,7 +33,7 @@ jooq {
                     }
                     target.apply {
                         packageName = "org.example.db.generated"
-                        directory = "src/generated/kotlin/"
+                        directory = "src/generated/java/"
                     }
                 }
             }
